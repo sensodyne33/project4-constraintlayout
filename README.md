@@ -11,3 +11,5 @@ Create the ColorMyViews app.
 Add click handlers to text views to change the views' color when the user taps them.
 Add text views with different font sizes and align them using a baseline constraint.
 Add a chain of three buttons and constrain the chain to the bottom of the layout.
+
+![image](https://user-images.githubusercontent.com/80417412/157314460-294db9c7-fb35-4d72-b54a-065aac224acb.png)
